@@ -2,10 +2,10 @@ h1, h2, h3 {
     font-family: 'Bebas Neue';
 }
 
-p {
+p, li {
     font-family: Heebo;
 }
 
-.nav {
+.nav, .practice {
     font-family: Bebas Neue;
 }
