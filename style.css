@@ -1,3 +1,11 @@
-* {
+h1, h2, h3 {
     font-family: 'Bebas Neue';
+}
+
+p {
+    font-family: Heebo;
+}
+
+.nav {
+    font-family: Bebas Neue;
 }
