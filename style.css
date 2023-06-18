@@ -2,21 +2,47 @@ body {
     background-color: #0c243c;
 }
 
-h1, h2, h3 {
+header {
     color: #7E8C9C;
     font-family: 'Bebas Neue';
+    text-align: center;
+}
+
+#nav {
+    color: #C9D1D5;
+    font-family: 'Bebas Neue';
+    text-align: center;
+}
+
+#about {
+    color: #C9D1D5;
+    font-family: Heebo;
+    text-align: center;
+}
+
+#practice {
+    color: #C9D1D5;
+    font-family: Bebas Neue;
+    text-align: center;
+}
+
+#projects {
+    color: #C9D1D5;
+    font-family: Bebas Neue;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
     color: inherit;
 }
 
+h1, h2, h3 {
+    color: #7E8C9C;
+    font-family: 'Bebas Neue';
+}
+
 p, li {
     color: #C9D1D5;
     font-family: Heebo;
-}
-
-.nav, .practice {
-    color: #C9D1D5;
-    font-family: Bebas Neue;
 }
