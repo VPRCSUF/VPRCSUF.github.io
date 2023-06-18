@@ -1,11 +1,22 @@
+body {
+    background-color: #0c243c;
+}
+
 h1, h2, h3 {
+    color: #7E8C9C;
     font-family: 'Bebas Neue';
 }
 
+a {
+    color: inherit;
+}
+
 p, li {
+    color: #C9D1D5;
     font-family: Heebo;
 }
 
 .nav, .practice {
+    color: #C9D1D5;
     font-family: Bebas Neue;
 }
