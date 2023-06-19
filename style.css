@@ -8,6 +8,13 @@ header {
     text-align: center;
 }
 
+#footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 99.6%;
+}
+
 #nav {
     color: #C9D1D5;
     font-family: 'Bebas Neue';
